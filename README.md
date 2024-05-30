@@ -1,1 +1,1 @@
-# Composi-o
+## Exercício de composição em Java.
